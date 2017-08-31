@@ -79,4 +79,20 @@ public class UI_Controller : MonoBehaviour {
             TweenTrans.endVector = GetSliderStart();
         }
     }
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
 }
